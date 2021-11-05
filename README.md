@@ -1,2 +1,2 @@
 # StepByStep-Problem-Solved
-for coding Study with C!
+백준 골드 간다
